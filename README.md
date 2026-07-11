@@ -2,6 +2,9 @@
 
 A fast Zig language server written in Rust, targeting Zig 0.16.x.
 
+## Disclaimer;
+This is AI slop. Do not be fooled by the readme that this is actually functioning, it is slop and should not be taken seriously nor used by anyone in any real context.
+
 ## Features
 
 - **Diagnostics** via `zig ast-check` (fast syntax) and `zig build-exe -fno-emit-bin` (full semantic)
