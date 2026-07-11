@@ -130,7 +130,7 @@ src/
 - [ls-types](https://github.com/nicorusti/ls-types) - LSP type definitions
 - [ropey](https://github.com/cessen/ropey) - Rope data structure for text editing
 - [tokio](https://tokio.rs/) - Async runtime
-- [ariadne](https://github.com/ariadne-lang/ariadne) - Pretty error reporting
+- [ariadne](h[ttps://github.com/ariadne-lang/ariadne](https://codeberg.org/zesterer/ariadne)) - Pretty error reporting
 - [clap](https://docs.rs/clap) - CLI argument parsing
 
 ## License
