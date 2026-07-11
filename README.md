@@ -16,7 +16,7 @@ This is AI slop. Do not be fooled by the readme that this is actually functionin
 - **Find references**
 - **Rename**
 - **Code actions**
-- **Pretty terminal diagnostics** via [ariadne](https://github.com/ariadne-lang/ariadne) (CLI mode)
+- **Pretty terminal diagnostics** via [ariadne]([https://github.com/ariadne-lang/ariadne](https://codeberg.org/zesterer/ariadne)) (CLI mode)
 
 ## Installation
 
